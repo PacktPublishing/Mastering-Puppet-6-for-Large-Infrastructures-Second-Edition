@@ -1,0 +1,17 @@
+<resource-type> {'SQL Update':....}
+@@file { "${home_dir}./db_status";
+   content => "Success"
+   tag => "${::customer}_${::environment}_DB",
+   require => <resource-type>['SQL Update'],
+}
+File <<| tag == "${;;customer}_${;;environment_DB" |>>
+
+exec { 'Test DB Initialization':
+   command => "cat ${home_dir}./.db_status | grep Sucess",
+   path => "/usr/bin:/bin",
+}
+
+service { '<service_name>':
+   ensure => 'running',
+   require => Exec['Test DB Initialization'],
+}

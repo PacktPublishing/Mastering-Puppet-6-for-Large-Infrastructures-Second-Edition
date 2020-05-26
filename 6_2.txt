@@ -1,0 +1,10 @@
+if ($coolestteam == "Cubs") { 
+   $message = "The Coolest Team is the $coolestteam\n" 
+} else { 
+   $message = "The Coolest Team \n" 
+} 
+
+file { "/tmp/machineOperatingSystem.txt": 
+   ensure => file, 
+   content => "$message" 
+}

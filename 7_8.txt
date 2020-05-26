@@ -1,0 +1,45 @@
+-- No Parameters
+node 'foo.com' {
+  $file_owner = "larry" 
+  include bar 
+}
+
+class bar { 
+  $file_name = "larry.txt"
+  include do_stuff
+}
+
+class do_stuff {
+  file { $file_name:
+    ensure => file,
+    owner  => $file_owner,
+  }
+}
+
+
+
+
+
+-- With Parameters
+node 'example.com' { 
+  class { bar: }
+}
+
+node 'example.net' {
+  class { bar: owner = "harry" }
+}
+
+node 'example.net' {
+  class { bar: file_name = "barry.txt" }
+}
+
+class bar($owner = "larry", $file_name = "larry.txt") { 
+  class { do_stuff: owner => $owner, file_name => $file_name }
+}
+
+class do_stuff($owner, $file_name) {
+  file { $file_name:
+    ensure => file,
+    owner  => $owner,
+  }
+}

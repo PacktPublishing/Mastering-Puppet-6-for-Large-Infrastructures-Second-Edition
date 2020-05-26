@@ -1,0 +1,9 @@
+Global	$confdir/hiera.yaml	
+/etc/puppetlabs/puppet/hiera.yaml
+C:\ProgramData\PuppetLabs\puppet\etc\hiera.yaml
+
+Environment	<ENVIRONMENT>/hiera.yaml	
+/etc/puppetlabs/code/environments/production/hiera.yaml
+
+Module	<MODULE>/hiera.yaml	
+/etc/puppetlabs/code/environments/production/modules/ntp/hiera.yaml
