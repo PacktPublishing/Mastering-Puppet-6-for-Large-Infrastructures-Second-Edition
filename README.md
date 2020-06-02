@@ -6,7 +6,6 @@ This course will take your knowledge of Puppet to an advanced level, and covers 
 
 By the end of this course, you will be confident and skilled enough to scale and troubleshoot Puppet and overcome issues faced in larger deployments with real-world examples.
 
-By the end of the course, you will have built an appetizing burger-recipe applicaiton.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
