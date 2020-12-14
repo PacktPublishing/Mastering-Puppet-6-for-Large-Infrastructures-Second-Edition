@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-puppet-6-for-large-infrastructures-second-edition-video/9781838647674)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 This is the code repository for [ Mastering Puppet 6 for Large Infrastructures, Second Edition [Video]](https://www.packtpub.com/cloud-networking/mastering-puppet-6-for-large-infrastructures-second-edition-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Puppet is a configuration management system that helps you automate all your IT configurations, giving you control of what you do to each node, when you do it, and how you do it.
