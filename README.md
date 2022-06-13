@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V14310?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 This is the code repository for [ Mastering Puppet 6 for Large Infrastructures, Second Edition [Video]](https://www.packtpub.com/cloud-networking/mastering-puppet-6-for-large-infrastructures-second-edition-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Puppet is a configuration management system that helps you automate all your IT configurations, giving you control of what you do to each node, when you do it, and how you do it.
