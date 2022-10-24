@@ -40,3 +40,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 * [Learn Puppet 6](https://www.packtpub.com/cloud-networking/learn-puppet-6-video)
 
 * [Hands-On Infrastructure Automation with Puppet 6](https://www.packtpub.com/cloud-networking/hands-on-infrastructure-automation-with-puppet-6-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838647674">https://packt.link/free-ebook/9781838647674 </a> </p>
