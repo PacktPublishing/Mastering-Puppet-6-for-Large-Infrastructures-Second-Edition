@@ -1,13 +1,4 @@
 
-### Get this product for $5
-
-<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
-
-
-<b><p align='center'>[Buy now](https://packt.link/9781838647674)</p></b>
-
-
-<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
 
 
 This is the code repository for [ Mastering Puppet 6 for Large Infrastructures, Second Edition [Video]](https://www.packtpub.com/cloud-networking/mastering-puppet-6-for-large-infrastructures-second-edition-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
